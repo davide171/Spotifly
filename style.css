@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#playlist-url {
+    width: 80%;
+    padding: 8px;
+    margin: 10px 0;
+}
+button {
+    padding: 8px 12px;
+    font-size: 16px;
+    cursor: pointer;
+}
